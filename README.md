@@ -1,10 +1,10 @@
 # Enzyme-classification
 Protein(Enzyme, graph) classification with active learning sitting 
 
-#Active Learning Framework
+# Active Learning Framework
 ![GitHub Logo](images/img.png)
 
-#Some graph data from dataset
+# Some graph data from dataset
 
 ![GitHub Logo](images/1.png)
 ![GitHub Logo](images/2.png)
