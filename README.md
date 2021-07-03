@@ -1,4 +1,5 @@
-My graduation project 😃, it is the first project among 15 project. 
+# My graduation project 😃, it is the first project among 15 project. 
+[Thesis](https://www.researchgate.net/publication/352953032_Active_Learning_on_Graph_Neural_Network_for_Enzymes_Classification_Active_learning_on_graph_neural_network_for_enzymes_classification) and [presentation](https://www.researchgate.net/publication/352953016_Active_learning_on_graph_neural_network_for_enzymes_classification_equinvariant_neural_network_and_Optimal_transport) 
 # Enzyme-classification
 Protein(Enzyme, graph) classification with active learning sitting 
 
